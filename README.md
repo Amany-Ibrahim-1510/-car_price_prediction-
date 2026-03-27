@@ -269,39 +269,6 @@ plt.show()
 
 ---
 
-## 📄 Report Template (report.pdf)
-
-Your report should include:
-
-### 1. Introduction
-
-* Problem definition
-* Dataset overview
-
-### 2. EDA
-
-* Key insights
-* Visualizations
-
-### 3. Preprocessing
-
-* Cleaning steps
-* Feature engineering
-
-### 4. Modeling
-
-* Models tried
-* Comparison table
-
-### 5. Results
-
-* Best model performance
-
-### 6. Conclusion
-
-* Final insights
-
----
 
 ## 🌐 Simple Flask API (Deployment Ready)
 
@@ -337,24 +304,4 @@ flask
 xgboost
 ```
 
----
 
-## 🧠 Pro Tips (Important for GitHub & Jobs)
-
-* Keep commits clean and meaningful
-* Write clear commit messages
-* Add screenshots of results
-* Pin this repo on your profile
-* Share it on LinkedIn
-
----
-
-## 🚀 Final Note
-
-This project demonstrates real-world ML workflow and is suitable for:
-
-* Internships
-* Junior ML roles
-* Portfolio showcase
-
-⭐ Don't forget to star the repo!
